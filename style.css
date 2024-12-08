@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+ img{
+    height: 150px; width: 150px;
+}
+
+
+ul{
+    background-color: black;
+    color: white;
+}
+
